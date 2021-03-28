@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi ❤️
 
-<!--
-**TracyNgot/TracyNgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yolaine (she / her), CTO at Fair HQ and full stack developer (front-end friendly 🦄).
+I build MVP and beautiful apps using Node.js, React, Next.js/Gatsby and JS/Typescript.
 
-Here are some ideas to get you started:
+Photography 📸, Gaming 🕹 and Art ✍️ are my hobbies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My website: [Yolaine.dev](https://yolaine.dev)
+
+- 🌈 I'm building the first D&I platform at [Fair HQ](https://fairhq.co) for building inclusive companies 💕
+- 🔭 I’m currently working on [DontMakeMeCode.dev](https://dontmakemecode.dev) and [WeWorkAtNight.com](https://weworkatnight.com)
+- 🌱 I’m currently learning how to become good at gardening
+- 💬 Ask me about **anything**
+- 📫 How to reach me: tracy@weworkatnight.com
+- 😄 Pronouns: she / her 🧞‍♀️
+
