@@ -13,6 +13,3 @@ My website: [Yolaine.dev](https://yolaine.dev)
 - 💬 Ask me about **anything**
 - 📫 How to reach me: tracy@weworkatnight.com
 - 😄 Pronouns: she / her 🧞‍♀️
-
-![](https://github.com/TracyNgot/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TracyNgot/github-stats/blob/master/generated/languages.svg)
