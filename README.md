@@ -8,8 +8,8 @@ Photography 📸, Gaming 🕹 and Art ✍️ are my hobbies.
 My website: [Yolaine.dev](https://yolaine.dev)
 
 - 🌈 I'm building the first D&I platform at [Fair HQ](https://fairhq.co) for building inclusive companies 💕
-- 🔭 I’m currently working on [WeWorkAtNight.com](https://weworkatnight.com)
+- 🔭 I’m currently working on [TheBWDiary.com](https://thebwdiary.com)
 - 🌱 I’m currently learning how to become good at gardening
 - 💬 Ask me about **anything**
-- 📫 How to reach me: tracy@weworkatnight.com
+- 📫 How to reach me: tracy@wwan.uk
 - 😄 Pronouns: she / her 🧞‍♀️
