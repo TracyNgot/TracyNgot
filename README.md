@@ -30,12 +30,6 @@ I'm a passionate developer building modern web applications and AI-powered produ
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🤖 AI Projects & Interests
-
-- Building LLM-powered applications with Vercel AI SDK
-- Developing AI-enhanced user experiences
-- Experimenting with vector databases and embeddings
-
 ## 🌟 Featured Projects
 
 ### [My Portfolio](https://yolaine.dev)
@@ -51,9 +45,9 @@ A terminal-inspired portfolio website built with Next.js, TypeScript, and Tailwi
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=vercel&logoColor=white)](https://yolaine.dev)
-[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://dontmakemecode.com)
+[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://yolaine.dev/blog)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TracyNgot)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@yolaine.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@yolaine.dev)
 
 ---
 
