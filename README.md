@@ -1,4 +1,4 @@
-# Hi, I'm Tracy Ngot 👋
+# Hi, I'm Tracy Yolaine Ngot 👋
 
 ### Solo founder · Full-stack engineer · AI product builder
 
