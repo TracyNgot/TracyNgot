@@ -16,11 +16,9 @@ My work sits at the intersection of AI, developer tools, and practical products.
 
 ## What I'm Building
 
-### 📨 InboxTap — Open source · In development
+### 📨 [InboxTap](https://inboxtap.dev) — Open source
 
 A local SMTP capture server that makes email-flow tests simple, isolated, and deterministic. It helps developers test signup links, password resets, OTPs, and other transactional emails without sending test messages to real inboxes.
-
-_Public repository and documentation coming soon._
 
 ### 🚀 [Yolaine LTD](https://yolaine.dev)
 
