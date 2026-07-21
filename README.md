@@ -4,6 +4,8 @@
 
 I run [Yolaine LTD](https://yolaine.dev), an independent, self-funded product studio. I design, build, launch, and operate software products end to end, from the first idea and user experience to engineering, payments, analytics, and growth.
 
+Alongside my product work, I’m currently contracting with **Eurostar** as a Senior AI Engineer.
+
 My work sits at the intersection of AI, developer tools, and practical products. I'm also studying **The Augment MBA** to strengthen the business side of everything I build. If you're interested, you can [explore the program through my referral link](https://augment.school/tracy).
 
 - 🚀 Running and growing a portfolio of self-funded products
